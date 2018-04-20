@@ -14,7 +14,6 @@ import org.lwjgl.opengl.DisplayMode;
 import org.lwjgl.util.Color;
 import org.lwjgl.util.ReadableColor;
 
-import com.graphic.GraphicsModule;
 import com.graphic.TpReadableColor;
 import com.field.*;
 

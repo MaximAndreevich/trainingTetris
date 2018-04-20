@@ -22,4 +22,4 @@ public enum TpReadableColor {
             return colorByNumber[colorNumber];
         }
     }
-}
+
